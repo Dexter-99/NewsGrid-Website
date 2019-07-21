@@ -1,0 +1,33 @@
+
+#navbar #content-1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1rem;
+}
+#navbar #content-1 #nav-logo {
+  text-align: center;
+}
+#showcase-container {
+  grid-template-columns: 1fr;
+}
+#news-content {
+  display: inherit;
+    grid-template-columns: 1fr;
+}
+.item {
+  margin-bottom: 1rem;
+}
+#news-content #item-1,#news-content #item-7 {
+  display: flex;
+  flex-direction: column;
+}
+#foot-1 {
+  grid-template-columns: 1fr;
+  grid-gap: 2rem;
+}
+#foot-2 {
+  margin-top: 2rem;
+}
+.page-container {
+  grid-template-columns: 1fr;
+}
