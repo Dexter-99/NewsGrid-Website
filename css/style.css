@@ -132,7 +132,7 @@ a {
 }
 #showcase-content h1 {
   font-family: "Staatliches", cursive;
-  margin-top: 0.75rem;
+  margin: 0.75rem 0px 0px;
   font-size: 32px;
 }
 #showcase-content a {

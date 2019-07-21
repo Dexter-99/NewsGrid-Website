@@ -7,7 +7,7 @@
 #navbar #content-1 #nav-logo {
   text-align: center;
 }
-#showcase-container {
+.showcase-container {
   grid-template-columns: 1fr;
 }
 #news-content {
